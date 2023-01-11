@@ -10,7 +10,7 @@ This project is a program that allows a bookstore clerk to add, remove, update a
 2. Download the 'bookstore.py' file and store it in a folder.
 3. Open the program using your preferred IDE.
 
-##Program Use
+## Program Use
 1. Once opened on your preferred IDE, run the program.
 2. A menu will be presented with 5 options, entering a book, updating a book, deleting a book or searching a book and exiting the program.
 3. Select the desired function by entering the number associated with each option.
